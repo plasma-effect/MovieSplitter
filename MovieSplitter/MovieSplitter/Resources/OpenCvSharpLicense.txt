@@ -1,0 +1,8 @@
+MovieSplitter
+Copyright (c) 2020, plasma_effect
+All rights reserved.
+
+---All Library used in this software---
+OpenCvSharp
+Copyright (c) 2019, shimat
+All rights reserved.
